@@ -33,7 +33,7 @@ Version control is important.
 
 ## Becoming Employable
 
-Getting a job is hard, even if you're technically skilled
+Getting a job is hard, even if you're technically skilled.
 
 * [Weekly Interview Question Email](https://www.interviewcake.com/free-weekly-coding-interview-problem-newsletter)
 * [HackerRank](https://www.hackerrank.com/)
@@ -41,7 +41,7 @@ Getting a job is hard, even if you're technically skilled
 
 ## Collaboration
 
-Working with others
+You will almost certainly need to work with other people.
 
 * [The Myth of the Genius Programmer](https://www.youtube.com/watch?v=0SARbwvhupQ)
 
