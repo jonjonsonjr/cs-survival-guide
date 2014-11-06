@@ -18,3 +18,7 @@ Run this command:
 * [Book](http://git-scm.com/book)
 * [Simple Guide](http://rogerdudler.github.io/git-guide/)
 * [Hacker's Guide](http://wildlyinaccurate.com/a-hackers-guide-to-git)
+
+## Collaboration
+
+* [The Myth of the Genius Programmer](https://www.youtube.com/watch?v=0SARbwvhupQ)
