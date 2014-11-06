@@ -1,5 +1,7 @@
 # CS Survival Guide
 
+What they don't teach you at (my) school.
+
 ## CLI
 
 * [Command Line Crash Course](http://cli.learncodethehardway.org/book/)
@@ -18,6 +20,12 @@ Run this command:
 * [Book](http://git-scm.com/book)
 * [Simple Guide](http://rogerdudler.github.io/git-guide/)
 * [Hacker's Guide](http://wildlyinaccurate.com/a-hackers-guide-to-git)
+
+## Becoming Employable
+
+* [Weekly Interview Question Email](https://www.interviewcake.com/free-weekly-coding-interview-problem-newsletter)
+* [HackerRank](https://www.hackerrank.com/)
+* [CS Career Questions](http://www.reddit.com/r/cscareerquestions/wiki/index)
 
 ## Collaboration
 
