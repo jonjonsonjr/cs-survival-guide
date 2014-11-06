@@ -35,9 +35,9 @@ Version control is important.
 
 Getting a job is hard, even if you're technically skilled.
 
-* [Weekly Interview Question Email](https://www.interviewcake.com/free-weekly-coding-interview-problem-newsletter)
-* [HackerRank](https://www.hackerrank.com/)
 * [CS Career Questions](http://www.reddit.com/r/cscareerquestions/wiki/index)
+* [HackerRank](https://www.hackerrank.com/)
+* [Weekly Interview Question Email](https://www.interviewcake.com/free-weekly-coding-interview-problem-newsletter)
 
 ## Collaboration
 
