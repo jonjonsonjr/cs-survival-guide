@@ -47,7 +47,8 @@ You will almost certainly need to work with other people.
 
 ## Keeping Up
 
-Stay relevant by reading Computer Science and programming news.
+Stay relevant by reading news and understanding our culture.
 
 * [/r/programming](http://www.reddit.com/r/programming/)
 * [Hacker News](https://news.ycombinator.com/)
+* [The Jargon File](http://www.catb.org/jargon/html/)
