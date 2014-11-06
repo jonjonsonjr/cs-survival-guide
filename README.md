@@ -2,6 +2,10 @@
 
 What they don't teach you at (my) school.
 
+There's a lot of stuff that isn't strictly related to Computer Science but is vital to know as a software developer.
+This is a collection of things that I wish someone had told me to learn while pursuing my CS degree.
+Please send a pull request if you know of any resources or topics missing from this list.
+
 ## CLI
 
 Stop clicking buttons and learn how to use your computer.
